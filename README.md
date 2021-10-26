@@ -1,4 +1,5 @@
 Ce repo github et un exemple de bonne utilisation de github.
+Il a été effectué dans le cadre du cours MLOD à l'IMT Nord-Europe.
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem
 Ipsum has been the industry's standard dummy text ever since the 1500s, when an
